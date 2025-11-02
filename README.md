@@ -1,18 +1,10 @@
-# Welcome to your Lovable project
+# Welcome to your Jielimishe-AI project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/e05c8a28-d415-4028-afae-c083700ddec0
+Jielimishe AI is an AI-powered learning companion designed specifically for Kenya's Competency-Based Curriculum (CBC), helping students master the seven core competencies through personalized learning paths and real-time progress tracking. The platform features an intelligent AI assistant that provides instant support, adaptive assessments that identify individual strengths and weaknesses, and curated learning resources tailored to each student's unique needs. By combining beautiful, gamified interfaces with practical tools for students, teachers, and parents, Jielimishe AI makes CBC learning more engaging, manageable, and effective for all stakeholders in the education ecosystem.
 
 ## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/e05c8a28-d415-4028-afae-c083700ddec0) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -59,15 +51,3 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/e05c8a28-d415-4028-afae-c083700ddec0) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
