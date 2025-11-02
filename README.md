@@ -51,3 +51,9 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+![Alt text](Jielimishe_1.JPG)
+![Alt text](Jielimishe_2.JPG)
+![Alt text](Jielimishe_3.JPG)
+
+- 
